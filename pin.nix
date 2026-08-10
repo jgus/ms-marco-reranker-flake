@@ -1,6 +1,6 @@
 # Auto-managed by `nix run .#update-version`. Manual edits will be overwritten by the next bump.
 {
-  rev = "c5ee24cb16019beea0893ab7796b1df96625c6b8";
+  rev = "233902d25c440f23af6f7d6e94d2946bac0bee0a";
   # Per-file sha256 of the subset of HF repo files CrossEncoder needs (skips onnx/openvino/flax/pytorch_model.bin).
   hashes = {
     "config.json" = "sha256-OA4CyT9DGDG+ZdmaTn5fZ8EzmFvy532dTrpGhHGQusw=";
